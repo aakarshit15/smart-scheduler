@@ -1,0 +1,11 @@
+Computer Science - 5th Semester Schedule
+Course: Advanced Algorithms
+
+Assignments:
+1. Implement Graham Scan Algorithm - Due: January 28, 2026
+2. Graph Theory Problem Set - Due: February 3, 2026
+3. Final Project Proposal - Due: February 10, 2026
+
+Lab Sessions:
+- Weekly labs every Wednesday 2-5 PM
+- Midterm practical: February 15, 2026
